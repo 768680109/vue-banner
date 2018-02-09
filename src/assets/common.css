@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: Microsoft YaHei;
+	font-size:14px;
+}
+table {
+	border-collapse:collapse;border-spacing:0;
+	}
+img {
+	border: none;
+}
+input {
+	vertical-align: middle;
+	line-height: normal;
+}
+button{
+	outline: none;
+	-webkit-appearance: none;  
+}
+ul, li {
+	list-style:none;
+}
+a{
+	color:#FF7F50;
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: none;
+	color: #BD0A01;
+	border: none;
+}
+.clear:after{
+	content: "";
+	clear:both;
+	display: block;
+	height:0px;
+	overflow: hidden;
+	visibility: hidden;
+}
