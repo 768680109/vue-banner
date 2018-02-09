@@ -1,4 +1,5 @@
-# zujian
+# 一款基于vue的无缝滚动轮播图插件
+# 不依赖任何插件，可直接使用
 
 > the custom component from liwenhao
 
