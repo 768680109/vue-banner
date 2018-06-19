@@ -1,7 +1,7 @@
 # 一款基于vue的无缝滚动轮播图插件
 # 不依赖任何插件，可直接使用
 # ^_^如果代码很对你胃口很到位就请点个星星把~
-
+# bug已更新
 > the custom component from liwenhao
 
 ## Build Setup
